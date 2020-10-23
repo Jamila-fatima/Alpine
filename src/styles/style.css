@@ -1,0 +1,401 @@
+
+
+
+
+
+.navbar{
+ 
+  padding: 53px 45px;
+
+    position: absolute;
+    top: 0;
+    font-family: Paytone One;
+    font-style: normal;
+    font-weight: normal;
+    
+    line-height: 25px;
+    color: #FFFFFF;
+   
+  }
+  .nav-link.active{
+    font-size: 17px;
+  
+    text-transform: uppercase;
+    color: white !important;
+    padding: 23px !important;
+  }
+  
+  h1{
+    font-size: 64px;
+    font-weight: 800;
+  }
+  .alpine{
+
+    width: 439px;
+    margin-left: 55px;
+    color: white;
+    padding: 16px;
+    margin-top: 81px;
+  }
+  .alpine-head{
+    font-family: Paytone One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 89px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  p{
+    font-size: 16px;
+    color: white;
+    
+  }
+  .social-media{
+    font-family: Paytone One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+  }
+  .my-input{
+    padding: 6px 36px;
+    border-radius: 25px;
+    width: 274px;
+    margin-right: 10px;
+    background: none;
+    border: 1px solid gray;
+  }
+  .my-btn{
+    padding: 6px 4px;
+    border-radius: 25px;
+    background: none;
+    border: 1px solid red;
+    color: gray;
+  }
+  
+  .core-p{
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 149.8%;
+    color: #FFFFFF;
+    width: 432px;
+    height: 135px;
+  }
+  .grp-inp{
+    padding-top: 5px;
+    margin-bottom: 40px;
+  }
+  .center-sec{
+      position: absolute;
+      top: 142px;
+  }
+
+  .center-sec{
+      background-color:rgba(50, 42, 39, 0.5);
+      width: 994px;
+   
+     
+  }
+  .social-icons{
+    display: flex;
+    justify-content: space-around;
+    padding: 14px 12px;
+    align-items: center;
+
+  }
+  .three-cards{
+      padding: 60px 0px;
+      background-color: #322A27;
+  }
+  .third-img{
+    margin-top: -111px;
+  }
+  .market{
+    font-family: Paytone One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+  }
+
+
+  #lap-cup-col{
+    padding: 79px !important;
+  }
+  #dif-img{
+    margin-top: -152px !important;
+  }
+
+  #foot-container{
+    
+     
+  }
+  .foot-ul {
+      list-style-type: none;
+      color: white;
+      padding: 3px;
+      font-size: 18px;
+  }
+  #wrapper{
+    background-color: rgba(50, 42, 39,0.5);
+    width: 946px;
+    position: absolute;
+    top: 151px;
+    background-image: url('src/images/gradient.png') !important;
+  }
+  .alpine-wrapper{
+    position: absolute;
+    top:0;
+    
+  }
+  
+  .btn {
+     background: linear-gradient(180deg, #864A23 0%, #6A3A1B 100%);
+    
+    border: none;
+    cursor: pointer;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 149.8%;
+    color: #FFFFFF;
+    padding: 6px 47px;
+    border-radius: 55px;
+  }
+  .img-brand{
+    display: flex;    
+     align-items: center;
+  }
+  .img-brand-p{
+    padding: 30px 0px;
+    width: 233px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 149.8%;
+    color: #000000;
+  }
+  #foot-container{
+   max-width: 94%;
+   
+    padding: 44px 12px 12px 12px !important;
+  }
+  .footer-heading{
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 149.8%;
+    color: #FFFFFF;
+}
+  
+.notify{
+  background: #FF1640;
+  /* padding: 23px; */
+  /* border-radius: 67px; */
+  border-radius: 50%;
+  padding: 7px 12px;
+  font-weight: 700 !important;
+  color: white;
+}
+.unread{
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: #FFFFFF;
+  padding: 10px;
+}
+.dismiss-btn{
+  background: url(.jpg), #C4C4C4;
+    border-radius: 50px;
+    padding: 4px 15px;
+    border: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 149.8%;
+    color: #2D2828;
+}
+.pro-name{
+  font-family: Segoe UI;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+
+/* identical to box height, or 27px */
+
+color: #2D2828;
+}
+.active-status{
+  font-family: Segoe UI;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+
+/* identical to box height, or 27px */
+
+
+color: rgba(45, 40, 40, 0.7);
+
+}
+.status{
+  line-height: 5px;
+ 
+  padding: 13px 13px;
+}
+.chat-card{
+  background-image: url('../images/chat-bg.png');
+  background-color: white;
+  display:flex;
+  align-items: center;
+  padding: 2px 0px 12px 11px;
+  width: 453px;
+}
+.showcase{
+  font-family: Segoe UI;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+
+/* identical to box height, or 33px */
+
+
+color: #2D2828;
+}
+.cstomer{
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+ 
+  /* or 21px */
+  
+  
+  /* Dark Brown */
+  
+  color: #2D2828;
+}
+.user-img{
+  height: 77px;
+  width: 77px;
+}
+.para-msg{
+  font-family: Segoe UI;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 149.8%;
+/* or 21px */
+width: 315px;
+height: 105px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.thread{
+  font-family: Segoe UI;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 149.8%;
+/* identical to box height, or 33px */
+
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+#para-msg-col{
+ 
+  padding: 47px 29px 16px 20px;
+  margin-top: 34px;
+}
+
+.notify-col{
+  width: 453px;
+  padding-left: 79px ;
+}
+.notify-col-child{
+  display: flex;
+  justify-content: space-between;
+  padding: 35px 1px 17px 15px;
+  width: 453px;
+}
+.chart-card-col{
+  width: 453px;    
+   padding: 20px;
+}
+.fa.fa-toggle-on{
+  color: #e63333;
+  font-size: 25px;
+}
+.card-profile{
+  margin-top: -92px;
+  padding: 1px 57px;
+}
+.last-words{
+  align-items: center;
+  text-align: center;
+}
+.thanks-msg{
+  font-size: 28px;padding: 10px;
+   font-weight: 900;
+ background-color: white;
+  color: black
+}
+.red-logo{
+  display: flex;
+  justify-content: center;
+ margin-top: -175px;
+   margin-right: 36px;
+}
+#red-cont{
+  position: absolute;
+  top: 87px;
+  left: 123px;
+}
+#last{
+  text-align: center;
+  padding: 30px;
+}
+.footer-png{
+  margin-top: -111px;
+}
+.card-profile-child{
+  width: 90%;
+  margin: auto;
+}
+#glossy-row{
+  align-items: center;
+  padding: 86px 0px;
+ width: 92%;
+  margin: auto;
+  margin-top: -80px;
+}
+.market-div{
+  display: flex;
+  align-items: center;
+   justify-content: center
+}
+.dif-img{
+  position: absolute; 
+  top: 48px;
+  left: 300px;
+}
+.tiger-img{
+  margin-left: 210px
+}
